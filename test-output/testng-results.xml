@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8953" started-at="2019-09-19T08:30:40Z" finished-at="2019-09-19T08:30:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8953" started-at="2019-09-19T08:30:40Z" finished-at="2019-09-19T08:30:49Z">
+      <class name="PostRequest.PostSoapReq">
+        <test-method status="PASS" signature="GeneratedExcelValues()[pri:0, instance:PostRequest.PostSoapReq@59fa1d9b]" name="GeneratedExcelValues" is-config="true" duration-ms="583" started-at="2019-09-19T08:30:40Z" finished-at="2019-09-19T08:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneratedExcelValues -->
+        <test-method status="PASS" signature="xmlPostRequest_Test()[pri:0, instance:PostRequest.PostSoapReq@59fa1d9b]" name="xmlPostRequest_Test" duration-ms="8353" started-at="2019-09-19T08:30:41Z" finished-at="2019-09-19T08:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlPostRequest_Test -->
+      </class> <!-- PostRequest.PostSoapReq -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
